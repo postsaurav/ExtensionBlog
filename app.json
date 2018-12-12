@@ -9,7 +9,7 @@
   "EULA": "",
   "help": "",
   "url": "https://saurav-nav.blogspot.com",
-  "logo": "Blog Logo.ico",
+  "logo": "./Logo/icon.png",
   "capabilities": [],
   "dependencies": [],
   "screenshots": [],
