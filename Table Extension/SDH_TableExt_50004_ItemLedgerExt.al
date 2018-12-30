@@ -1,4 +1,4 @@
-tableextension 50001 "Sales Invoice Header Extension" extends "Sales Invoice Header"
+tableextension 50004 "Item Ledger Entry Extension" extends "Item Ledger Entry"
 {
     fields
     {
